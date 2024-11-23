@@ -1,3 +1,5 @@
+# Devlog Entry - 11/27/2024
+
 # Devlog Entry - 11/22/2024
 
 ## How we satisfied the requirements
